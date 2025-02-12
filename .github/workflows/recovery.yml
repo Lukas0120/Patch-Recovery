@@ -6,10 +6,10 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://transfer.sh/(RECOMMENDED)'
+        default: 'https://store1.gofile.io/download/web/f20b3f69-b3dc-41a6-94fc-801bf0cdd0ea/recovery.img'
 
 env:
-  RECOVERY_URL: https://oshi.at/Rpjg
+  RECOVERY_URL: https://store1.gofile.io/download/web/f20b3f69-b3dc-41a6-94fc-801bf0cdd0ea/recovery.img
 
 jobs:
   build:
